@@ -38,6 +38,7 @@
     "extract"
   ],
   "main": "unzip.js",
+  "typings": "unzip-stream.d.ts",
   "scripts": {
     "test": "tap ./test/*.js",
     "coverage": "tap ./test/*.js --cov --coverage-report=html"
